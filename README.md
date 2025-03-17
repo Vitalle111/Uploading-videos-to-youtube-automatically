@@ -1,6 +1,6 @@
 # Uploading-videos-to-youtube-automatically
 # Upload-de-videos-para-o-youtube-de-forma-automatica
-Criei o progama para ajudar quem gosta de upar varios videos ja criados para o youtube de forma automatizada,uma otima ferramenta para shorts ,so precisa configurar uma vez e ele ja faz automatico, sem precisar postar um por um,podendo agendar a data de postagem
+Criei o progama para ajudar quem gosta de upar varios videos ja criados para o youtube de forma automatizada,uma otima ferramenta para shorts ,so precisa configurar uma vez e ele ja faz automatico, sem precisar postar um por um,podendo agendar a data de postagem , link do video explicando como usar https://youtu.be/xZsC85q2XJg
 
 1 Primeiro baixe o arquivo, extraia a pasta caso esteja em rar,
 
